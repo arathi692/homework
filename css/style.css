@@ -121,13 +121,17 @@ height: 400px;
 
 }
    
-.text
+.thirdpage
 {
     width:50%;
 }
-.last
+.final
 {
     display: inline-block;
     width: 30%;
 
 }
+.old{
+    height: 150px;
+}
+
