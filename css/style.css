@@ -59,7 +59,6 @@
 .food1
 {
     margin-top: -10px;
-    margin-left: 4.5%;
 }
 
 .river
@@ -113,9 +112,12 @@ width:50%
     margin-top:-5%;
 
 }
-.food
+.food2
 {
-margin-left: 60px;
+margin-left: 1200px;
+margin-top: -18%;
+height: 400px;
+
 
 }
    
